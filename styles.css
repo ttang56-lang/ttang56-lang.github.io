@@ -1,0 +1,21 @@
+/* Your CSS goes here! */
+h1 {
+    color:darkblue;
+}
+table {
+    background-color:black;
+    color:white;
+}
+.fancy {
+    background-color:beige;
+    color:#444444;
+    font-family: "Times New Roman", Times, serif;
+}
+#funky {
+    color:coral;
+    background-color:cornflowerblue;
+}
+.smalltext {
+    font-size: 10px;
+}
+
